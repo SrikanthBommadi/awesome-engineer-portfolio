@@ -43,7 +43,7 @@ const ResumeSection = () => {
                 Download Resume
               </a>
               <a
-                href="/SRIKANTH.pdf"
+                href="https://raw.githubusercontent.com/srikanthreddytgen/awesome-engineer-portfolio/main/SRIKANTH.docx"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 border border-border text-foreground px-6 py-3 rounded-lg font-medium hover:border-primary hover:text-primary transition-all duration-300"
