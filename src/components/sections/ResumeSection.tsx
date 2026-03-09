@@ -35,7 +35,7 @@ const ResumeSection = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <a
-                href="https://raw.githubusercontent.com/srikanthreddytgen/awesome-engineer-portfolio/main/SRIKANTH.pdf"
+                href="/SRIKANTH.pdf"
                 download="Srikanth_Bommadi_Resume.pdf"
                 className="group flex items-center justify-center gap-2 bg-primary text-primary-foreground px-6 py-3 rounded-lg font-medium hover:brightness-110 transition-all duration-300"
               >
@@ -43,7 +43,7 @@ const ResumeSection = () => {
                 Download Resume
               </a>
               <a
-                href="https://raw.githubusercontent.com/srikanthreddytgen/awesome-engineer-portfolio/main/SRIKANTH.pdf"
+                href="/SRIKANTH.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 border border-border text-foreground px-6 py-3 rounded-lg font-medium hover:border-primary hover:text-primary transition-all duration-300"
