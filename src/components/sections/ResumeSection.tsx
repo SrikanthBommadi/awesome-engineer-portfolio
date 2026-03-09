@@ -35,15 +35,15 @@ const ResumeSection = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <a
-                href="https://raw.githubusercontent.com/SrikanthBommadi/awesome-engineer-portfolio/main/SRIKANTH.docx"
-                download="Srikanth_Bommadi_Resume.docx"
+                href="https://raw.githubusercontent.com/srikanthreddytgen/awesome-engineer-portfolio/main/SRIKANTH.pdf"
+                download="Srikanth_Bommadi_Resume.pdf"
                 className="group flex items-center justify-center gap-2 bg-primary text-primary-foreground px-6 py-3 rounded-lg font-medium hover:brightness-110 transition-all duration-300"
               >
                 <Download size={18} />
                 Download Resume
               </a>
               <a
-                href="https://docs.google.com/gview?url=https://raw.githubusercontent.com/SrikanthBommadi/awesome-engineer-portfolio/main/SRIKANTH.docx&embedded=false"
+                href="https://raw.githubusercontent.com/srikanthreddytgen/awesome-engineer-portfolio/main/SRIKANTH.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 border border-border text-foreground px-6 py-3 rounded-lg font-medium hover:border-primary hover:text-primary transition-all duration-300"
