@@ -35,8 +35,8 @@ const ResumeSection = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <a
-                href="/SRIKANTH.pdf"
-                download="Srikanth_Bommadi_Resume.pdf"
+                href="https://raw.githubusercontent.com/srikanthreddytgen/awesome-engineer-portfolio/main/SRIKANTH.docx"
+                download
                 className="group flex items-center justify-center gap-2 bg-primary text-primary-foreground px-6 py-3 rounded-lg font-medium hover:brightness-110 transition-all duration-300"
               >
                 <Download size={18} />
