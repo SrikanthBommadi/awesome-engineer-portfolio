@@ -1,0 +1,68 @@
+# ----------------------------
+
+# Terraform
+
+# ----------------------------
+
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfplan
+*.plan
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# ----------------------------
+
+# Node / React / Vite
+
+# ----------------------------
+
+node_modules/
+dist/
+build/
+.vite/
+.cache/
+coverage/
+
+# Logs
+
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+
+.env
+.env.*
+!.env.example
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE files
+
+.vscode/
+.idea/
+*.swp
+
+# Package manager files
+
+.pnpm-store/
+
+# Temporary files
+
+tmp/
+temp/
